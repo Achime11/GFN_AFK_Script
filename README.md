@@ -19,7 +19,7 @@ A script that will stop [GeForce NOW](https://www.nvidia.com/en-eu/geforce-now/)
 
 **Q:** How it works?
 
-**A:** Every 4 minutes(240000 milliseconds) the script is moving the GeForce NOW window to the pixel of the coordinate (1,0) and then back at the pixel of coordinates (0,0) position with the speed of light so you will not notice this, so the GeForce NOW app thinks that you are not AFK. So you can be AFK more than 5-7 minutes(approx. limit of AFK right now on GeForce NOW)
+**A:** Every 4 minutes(240000 milliseconds) the script is moving the GeForce NOW window to the pixel of the coordinate (X,Y+1) and then back at the pixel of coordinates (X,Y) position with the speed of light so you will not notice this, so the GeForce NOW app thinks that you are not AFK. So you can be AFK more than 5-7 minutes(approx. limit of AFK right now on GeForce NOW)
 ##
 
 **Q:** Will I get a ban if I'll use this script?
