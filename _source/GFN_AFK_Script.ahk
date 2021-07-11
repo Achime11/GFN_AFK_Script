@@ -27,7 +27,7 @@ Loop
         MsgBox, 37,GeForce NOW is not running?,GeForce NOW is not running`n`n`nPress Retry to retry to find the GeForce NOW!`nPress Cancel to stop the script!
         IfMsgBox Retry
             Continue
-        Else Break
+        Else ExitApp
     }
     
 }
